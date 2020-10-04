@@ -1,4 +1,5 @@
 name,gender,wikidata,type
+"Emile en Dora Rommelaerestraat",+,Q4502896;Q21638499,way
 "Arnoldine Van Den Radestraat",F,Q84859467,way
 "Christine D'haenstraat",F,Q3224383,way
 "Eleonora Verbekehof",F,Q90413160,way
@@ -12,6 +13,7 @@ name,gender,wikidata,type
 "Maria Van Bourgondiëlaan",F,Q157073,way
 "Maria van Bourgondiëlaan",F,Q157073,way
 Mariastraat,F,Q345,way
+"Petronilla van Outryvestraat",F,Q48223900,way
 Sint-Annaplein,F,Q164294,way
 Sint-Annarei,F,Q164294,way
 Sint-Katarinastraat,F,Q179718,way
@@ -69,6 +71,7 @@ Greenhillstraat,M,Q91135758,way
 "Joseph Bogaertstraat",M,Q2742497,way
 "Joseph Wautersstraat",M,Q585785,way
 "Joseph de Schepperstraat",M,Q2327292,way
+"Jozef Suveestraat",M,Q2564914,way
 "Julius Delaplacestraat",M,Q84855814,way
 "Julius Dooghelaan",M,Q84856717,way
 "Kannunink Duclosstraat",M,Q2524668,way
@@ -81,10 +84,12 @@ Greenhillstraat,M,Q91135758,way
 "Karel de Floustraat",M,Q2617184,way
 "Karel de Stoutelaan",M,Q151120,way
 "Keizer Karelstraat",M,Q32500,way
+"Koning Albert I-laan",M,Q55008046,way
 "Koning Boudewijnlaan",M,Q12976,way
 "Leo Van Geluwestraat",M,Q1831669,way
 "Leopold Debruynestraat",M,Q84852880,way
 "Leopold I-laan",M,Q12971,way
+"Leopold II-dam",M,Q12967,way
 "Leopold II-laan",M,Q12967,way
 "Lodewijk de Raetstraat",M,Q2625919,way
 "Marcus Laurinstraat",M,Q2048595,way
