@@ -1,10 +1,16 @@
 
-name: Deploy Brugge
+name: Deploy
 
 on:
   push:
+    branches: [master]
     paths:
-      - 'cities/brugge'
+      - ".github/workflows/deploy.yml"
+  workflow_run:
+    branches: [master]
+    workflows: ["Update data"]
+    types:
+      - completed
 
 jobs:
   build-and-deploy:
@@ -13,13 +19,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
+          repository: EqualStreetNames/equalstreetnames
           persist-credentials: false
           submodules: true
 
       - name: Install and Build
         run: |
           npm install
-          npm run build:brugge
+          npm run build:belgium:brugge
         env:
           MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
 
@@ -27,7 +34,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@3.6.2
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          REPOSITORY_NAME: openknowledgebe/equalstreetnames-brugge
+          REPOSITORY_NAME: EqualStreetNames/equalstreetnames-brugge
           BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: 'dist/brugge' # The folder the action should deploy.
+          FOLDER: 'dist/belgium/brugge' # The folder the action should deploy.
           CLEAN: true # Automatically remove deleted files from the deploy branch
