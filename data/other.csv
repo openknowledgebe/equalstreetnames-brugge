@@ -56,7 +56,7 @@ Zevensterrestraat,wikidata,,Q13423,way
 "'t Pand",,,,way
 "'t Speelhof",,,,way
 "'t Veld",,,,way
-"'t Zand",,,,relation
+"'t Zand",,,,relation+way
 "'t Zweerd",,,,way
 18-Oktoberstraat,,,,way
 "A.J. Witteryckstraat",,,,way
@@ -825,8 +825,8 @@ Mariënhovedreef,,,,way
 "Mark Braetstraat",,,,way
 Markgraafstraat,,,,way
 Markiesstraat,,,,way
-Markt,,,,relation
-Marktplein,,,,relation
+Markt,,,,relation+way
+Marktplein,,,,relation+way
 Marktstraat,,,,way
 Matmeers,,,,way
 "Maurits van Coppenollestraat",,,,way
