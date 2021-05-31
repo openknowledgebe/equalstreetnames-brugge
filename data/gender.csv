@@ -3,6 +3,7 @@ name,source,gender,wikidata,type
 "Arnoldine Van Den Radestraat",wikidata,F,Q84859467,way
 "Christine D'haenstraat",wikidata,F,Q3224383,way
 "Eleonora Verbekehof",wikidata,F,Q90413160,way
+"Elisabeth Zorghestraat",wikidata,F,Q25711497,way
 "Kathelijne Idestraat",wikidata,F,Q84858520,way
 "Koningin Astridlaan",wikidata,F,Q230238,way
 "Maaike Kerrebroeckstraat",wikidata,F,Q84857486,way
@@ -34,6 +35,7 @@ Sint-Katarinastraat,wikidata,F,Q179718,way
 "Baron Joseph Ryelandtstraat",wikidata,M,Q1707941,way
 "Burgemeester Albin Van Renterghemstraat",wikidata,M,Q2001263,way
 "Cesar Gezellestraat",wikidata,M,Q2154331,way
+"Collaert Mansionstraat",wikidata,M,Q2749736,way
 "Cornelis De Moorstraat",wikidata,M,Q81314570,way
 "Dirk Boutsstraat",wikidata,M,Q313561,way
 "Dirk Martensstraat",wikidata,M,Q240649,way
@@ -61,6 +63,7 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Hendrik Waelputstraat",wikidata,M,Q2453577,way
 "Hervé Stalpaertstraat",wikidata,M,Q55824604,way
 "Hugo Losschaertstraat",wikidata,M,Q84850761,way
+"Hugo Verrieststraat",wikidata,M,Q981444,way
 "Jacob Van Maerlantstraat",wikidata,M,Q1393906,way
 "Jacob de Meyerestraat",wikidata,M,Q2745910,way
 "Jacobus Roelofstraat",wikidata,M,Q13734924,way
@@ -78,6 +81,7 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Jozef Suveestraat",wikidata,M,Q2564914,way
 "Julius Delaplacestraat",wikidata,M,Q84855814,way
 "Julius Dooghelaan",wikidata,M,Q84856717,way
+"Julius en Maurits Sabbestraat",wikidata,M,Q2208295;Q2682894,way
 "Kannunink Duclosstraat",wikidata,M,Q2524668,way
 "Kanunnik Logghestraat",wikidata,M,Q13428092,way
 "Kanunnik van Hoonackerstraat",wikidata,M,Q4712392,way
@@ -108,6 +112,7 @@ Oost-Gistelhof,wikidata,M,Q63419362,way
 "Paul Gilsonstraat",wikidata,M,Q958774,way
 "Peter Benoitlaan",wikidata,M,Q733063,way
 "Pieter Le Doulxstraat",wikidata,M,Q2648758,way
+"Pieter Pourbusstraat",wikidata,M,Q981558,way
 "Pieter de Conincklaan",wikidata,M,Q1394020,way
 "Priester Fonteynestraat",wikidata,M,Q2280748,way
 "Prins Leopoldstraat",wikidata,M,Q690327,way
@@ -116,6 +121,7 @@ Oost-Gistelhof,wikidata,M,Q63419362,way
 "Simon Stevinplein",wikidata,M,Q23696,way
 Sint-Jakobsstraat,wikidata,M,Q43999,way
 Sint-Maartensbilk,wikidata,M,Q133704,way
+Spinolarei,wikidata,M,Q359936,way
 "Stijn Streuvelsstraat",wikidata,M,Q175669,way
 "Veldmaarschalk Fochstraat",wikidata,M,Q192615,way
 West-Gistelhof,wikidata,M,Q63419362,way
